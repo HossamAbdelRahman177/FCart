@@ -95,7 +95,7 @@ const router = createBrowserRouter(
     </Route>
   ),
   {
-    basename: "/freshcart/",
+    basename: "/FCart/",
   }
 );
 export default function App() {
